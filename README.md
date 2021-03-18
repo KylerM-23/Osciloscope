@@ -5,6 +5,6 @@ The one without data colllection is present to demonstrate the viewing window as
 
 This project utilizes one Adafruit ADS1115 and it records the potential difference between the node and ground.
 
-YouTube Video Of Live Demo: 
+YouTube Video Of Live Demo: https://youtu.be/oZrnJQ6xRXs
 
 YouTube Video Of Window Demo: https://youtu.be/EqExEC9IDuU
