@@ -7,4 +7,4 @@ This project utilizes one Adafruit ADS1115 and it records the potential differen
 
 YouTube Video Of Live Demo: 
 
-YouTube Video Of Window Demo:
+YouTube Video Of Window Demo: https://youtu.be/EqExEC9IDuU
